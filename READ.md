@@ -1,1 +1,0 @@
-For compatibility with SSP we need a custom exporter consisting of the following files.
